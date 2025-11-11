@@ -1,7 +1,6 @@
 # RPG Progression System
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 A Python-based simulation system for modeling and balancing RPG progression mechanics, including combat, loot, experience, and story progression.
@@ -480,10 +479,6 @@ python main.py && python curve.py
 ## Contributing
 
 This is a personal project for RPG progression system design and testing. Feel free to fork and adapt for your own game projects.
-
-## License
-
-MIT License - Feel free to use this system for your game development projects.
 
 ## Acknowledgments
 
